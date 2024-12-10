@@ -1,0 +1,16 @@
+{# templates/book/search.html.twig #}
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Search Results</h1>
+
+    {% if books is empty %}
+        <p>No books found.</p>
+    {% else %}
+        <ul>
+            {% for book in books %}
+                <li>{{ book.title }} by {{ book.author.firstName }} {{ book.author.lastName }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}

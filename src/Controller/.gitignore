@@ -1,0 +1,410 @@
+# Ignore the .env file containing sensitive information
+.env
+.env.local
+.env.*.local
+.env.local.php
+
+# Ignore the var directory
+/var/
+
+# Ignore the vendor directory
+/vendor/
+
+# Ignore the node_modules directory
+/node_modules/
+
+# Ignore the public/bundles directory
+/public/bundles/
+
+# Ignore the cache and logs directories
+/var/cache/
+/var/log/
+
+# Ignore the .idea directory (for PHPStorm users)
+/.idea/
+
+# Ignore the .vscode directory (for Visual Studio Code users)
+/.vscode/
+
+# Ignore the .DS_Store file (for macOS users)
+.DS_Store
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the coverage directory
+/coverage/
+
+# Ignore the .php_cs.cache file
+.php_cs.cache
+
+# Ignore the .php_cs.dist file
+.php_cs.dist
+
+# Ignore the .php_cs file
+.php_cs
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .phpunit.result.cache file
+.phpunit.result.cache
+
+# Ignore the .php
